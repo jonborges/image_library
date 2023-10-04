@@ -5,9 +5,10 @@
 </head>
 <body>
 <div class="container">
-  <img src="https://i.imgur.com/FvkpmSg.jpg" alt="Imagem 1" class="image">
+  <img src="https://i.imgur.com/LG1VBfr.jpg" alt="Imagem 1" class="image">
   <img src="https://i.imgur.com/7YeSu5i.jpg" alt="Imagem 2" class="image">
 </div>
+
 
 <!-- Resumo do Projeto -->
 ## Resumo do Projeto
