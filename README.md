@@ -1,21 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  /* Estilo para centralizar o conteúdo na tela */
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-  }
 
-  /* Estilo para as imagens */
-  .image {
-    max-width: 100%;
-  }
-</style>
 </head>
 <body>
 <div class="container">
