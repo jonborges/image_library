@@ -5,7 +5,7 @@
 </head>
 <body>
 <div class="container">
-  <img src="https://imgur.com/LGlVBfr.jpg" alt="Imagem 1" class="image">
+  <img src="https://i.imgur.com/LGlVBfr.jpg" alt="Imagem 1" class="image">
   <img src="https://i.imgur.com/7YeSu5i.jpg" alt="Imagem 2" class="image">
 </div>
 
